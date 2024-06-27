@@ -1,0 +1,16 @@
+CREATE DATABASE MeuBancoDeDados;
+USE MeuBancoDeDados;
+CREATE TABLE Clientes (
+    ID INT PRIMARY KEY,
+    Nome VARCHAR(50),
+    Email VARCHAR(100)
+);
+
+
+CREATE DATABASE MeuBancoDeDados;
+USE MeuBancoDeDados;
+CREATE TABLE Clientes (
+    ID INT PRIMARY KEY,
+    Nome VARCHAR(50),
+    Email VARCHAR(100)
+);
